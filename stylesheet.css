@@ -163,22 +163,4 @@ footer
     padding-left: 85px;
    
 }
-@media (max-width:600px)
-{
-    body 
-    {
-        display: flex;
-        flex-direction: column;
-        flex-wrap: wrap;
-        justify-content:start;
-        align-items: start;
-    }
-    form
-    {
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        overflow: hidden;
-        flex-wrap: nowrap;
-    }
-}
+
